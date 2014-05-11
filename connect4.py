@@ -1,4 +1,8 @@
 # coding=UTF8
+
+# Python Connect4 game with AI using MTD(f) algorithm
+# Author: Maurits van der Schee <maurits@vdschee.nl>
+
 from Tkinter import Tk, Button, Frame, Canvas
 from tkFont import Font
 from copy import deepcopy
